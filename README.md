@@ -11,5 +11,7 @@ Dashboard3 Public Link - https://public.tableau.com/views/areainacresregionwised
 
 Report link - https://www.canva.com/design/DAFwlRf4MrI/E4iROMKR3aN6QpkTQy8b0w/view?utm_content=DAFwlRf4MrI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 
+Video Explanation Link - https://drive.google.com/file/d/1IJRhKoAkA-YSZWzrNg2tPwaydV1buAj1/view?usp=drivesdk
+
 
 
