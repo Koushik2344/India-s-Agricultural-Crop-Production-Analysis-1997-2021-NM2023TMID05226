@@ -2,3 +2,6 @@
 
 
 Story Public Link - https://public.tableau.com/views/insightsintoindiaagrriculturalcultivation/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link
+
+Dashboard1 Public Link - https://public.tableau.com/views/agriculture_16960758244230/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+
